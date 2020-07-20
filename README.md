@@ -2,4 +2,4 @@
 
 IN PROGRESS
 
-Project for understanding the process of handling data and merging those.
+Project for understanding the process of handling and merging data.
